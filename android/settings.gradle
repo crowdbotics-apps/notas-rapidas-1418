@@ -1,0 +1,3 @@
+rootProject.name = 'notas_rapidas_1418'
+
+include ':app'
